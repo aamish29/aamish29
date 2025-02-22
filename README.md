@@ -35,7 +35,7 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Projects
 
-**[Airbnb Market Analysis]** 
+**Airbnb Market Analysis** 
 
 *   Comprehensive analysis of 250,000 Airbnb listings and 5 million reviews across 10 global cities to uncover pricing drivers, market trends, and seasonality.
 *   Developed and validated a linear regression model to determine factors impacting pricing and create a value score for ranking cities based on affordability and satisfaction.
