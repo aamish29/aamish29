@@ -1,8 +1,5 @@
 # Hi, I'm Aamish Samotra! 👋
 
-[![LinkedIn](https://www.linkedin.com/in/aamish-samotra-997534152/)
-[![GitHub](https://github.com/aamish29?tab=repositories)
-
 ---
 
 ## About Me
