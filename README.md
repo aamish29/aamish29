@@ -35,7 +35,7 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Projects
 
-**[Airbnb Market Analysis](Your GitHub Project Link for Airbnb)** | Nov 2024 - Dec 2024
+**[Airbnb Market Analysis]** 
 
 *   Comprehensive analysis of 250,000 Airbnb listings and 5 million reviews across 10 global cities to uncover pricing drivers, market trends, and seasonality.
 *   Developed and validated a linear regression model to determine factors impacting pricing and create a value score for ranking cities based on affordability and satisfaction.
@@ -52,7 +52,7 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 🛠️ **Data Engineering & Big Data**: Apache Spark, PySpark, Hadoop, HDFS, MapReduce, Airflow, Snowflake
 
-☁️ **Cloud & DevOps**: AWS, S3, EC2, Lambda, SageMaker, Microsoft Azure, Azure ML, Cognitive Services, Google Cloud, BigQuery, AutoML, Docker, Kubernetes, Git, GitHub
+☁️ **Cloud & DevOps**: AWS, Microsoft Azure, Google Cloud, Docker, Kubernetes, Git
 
 📜 **Business & Finance Analytics**: Mortgage Data Analysis, Default Rate Modeling, Quantitative Trading, Crypto Trading Analysis, Business Intelligence, Decision Analytics
 
@@ -61,11 +61,12 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Certifications
 
-*   Advanced Learning Algorithms (Neural Networks) - Stanford University
+*   Unsupervised Machine Learning and Recommender Systems - Stanford University
+*   Neural Networks - Stanford University
 *   Supervised Machine Learning - Stanford University
 *   Inferential and Predictive Statistics
 *   Exploring and Producing data for Business decision making
-*   Knime certification
+*   Knime
 *   Data Structures and Algorithms in Python
 *   Successful Negotiation: Essential strategies and Skills
 *   Project Management Foundations
