@@ -45,41 +45,41 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 ## Skills
 
 🚀 **Programming & Scripting Languages**
-✅ Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)
-✅ SQL (MySQL, PostgreSQL, Microsoft SQL Server)
-✅ R (Tidyverse, ggplot2, Caret)
-✅ C++
+Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)
+SQL (MySQL, PostgreSQL, Microsoft SQL Server)
+R (Tidyverse, ggplot2, Caret)
+C++
 
 📊 **Data Science & Machine Learning**
-✅ Supervised & Unsupervised Machine Learning
-✅ Deep Learning & Neural Networks (CNNs, RNNs, Transformers)
-✅ Natural Language Processing (NLP) – SpaCy, NLTK, Hugging Face
-✅ Time-Series Forecasting & Predictive Modeling
-✅ Data Cleaning, Feature Engineering, & Model Evaluation
+Supervised & Unsupervised Machine Learning
+Deep Learning & Neural Networks (CNNs, RNNs, Transformers)
+Natural Language Processing (NLP) – SpaCy, NLTK, Hugging Face
+Time-Series Forecasting & Predictive Modeling
+Data Cleaning, Feature Engineering, & Model Evaluation
 
 📈 **Analytics & Visualization**
-✅ Tableau, Power BI
-✅ Matplotlib, Seaborn, Plotly
-✅ Excel (Pivot Tables, VBA, Solver)
-✅ KNIME
+Tableau, Power BI
+Matplotlib, Seaborn, Plotly
+Excel (Pivot Tables, VBA, Solver)
+KNIME
 
 🛠️ **Data Engineering & Big Data**
-✅ Apache Spark, PySpark
-✅ Hadoop (HDFS, MapReduce)
-✅ Airflow
-✅ Snowflake
+Apache Spark, PySpark
+Hadoop (HDFS, MapReduce)
+Airflow
+Snowflake
 
 ☁️ **Cloud & DevOps**
-✅ AWS (S3, EC2, Lambda, SageMaker)
-✅ Microsoft Azure (Azure ML, Cognitive Services)
-✅ Google Cloud (BigQuery, AutoML)
-✅ Docker & Kubernetes
-✅ Git & GitHub
+AWS (S3, EC2, Lambda, SageMaker)
+Microsoft Azure (Azure ML, Cognitive Services)
+Google Cloud (BigQuery, AutoML)
+Docker & Kubernetes
+Git & GitHub
 
 📜 **Business & Finance Analytics**
-✅ Mortgage Data Analysis (Default Rate Modeling)
-✅ Quantitative Trading (Crypto Trading, Whale Activity Analysis)
-✅ Business Intelligence & Decision Analytics
+Mortgage Data Analysis (Default Rate Modeling)
+Quantitative Trading (Crypto Trading, Whale Activity Analysis)
+Business Intelligence & Decision Analytics
 
 ---
 
