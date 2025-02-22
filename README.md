@@ -82,8 +82,8 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 **Pricing American Options Using LSMC**
 
-*Implemented Longstaff-Schwartz Monte Carlo (LSMC) method for pricing American options with a 2x speed improvement over traditional binomial models.
-*Backtested pricing strategy on 10,000+ options contracts, reducing pricing errors by 15%.
+*   Implemented Longstaff-Schwartz Monte Carlo (LSMC) method for pricing American options with a 2x speed improvement over traditional binomial models.
+*   Backtested pricing strategy on 10,000+ options contracts, reducing pricing errors by 15%.
 
 **Airbnb Market Analysis** 
 
