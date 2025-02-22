@@ -44,17 +44,42 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Skills
 
-**Programming Languages:** C++, Python, R
+🚀 **Programming & Scripting Languages**
+✅ Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)
+✅ SQL (MySQL, PostgreSQL, Microsoft SQL Server)
+✅ R (Tidyverse, ggplot2, Caret)
+✅ C++
 
-**Machine Learning/Data Science:** Deep Learning, Machine Learning
+📊 **Data Science & Machine Learning**
+✅ Supervised & Unsupervised Machine Learning
+✅ Deep Learning & Neural Networks (CNNs, RNNs, Transformers)
+✅ Natural Language Processing (NLP) – SpaCy, NLTK, Hugging Face
+✅ Time-Series Forecasting & Predictive Modeling
+✅ Data Cleaning, Feature Engineering, & Model Evaluation
 
-**Data Visualization:** Tableau, Power BI
+📈 **Analytics & Visualization**
+✅ Tableau, Power BI
+✅ Matplotlib, Seaborn, Plotly
+✅ Excel (Pivot Tables, VBA, Solver)
+✅ KNIME
 
-**Cloud Technologies:** AWS
+🛠️ **Data Engineering & Big Data**
+✅ Apache Spark, PySpark
+✅ Hadoop (HDFS, MapReduce)
+✅ Airflow
+✅ Snowflake
 
-**Databases:** MySQL
+☁️ **Cloud & DevOps**
+✅ AWS (S3, EC2, Lambda, SageMaker)
+✅ Microsoft Azure (Azure ML, Cognitive Services)
+✅ Google Cloud (BigQuery, AutoML)
+✅ Docker & Kubernetes
+✅ Git & GitHub
 
-**Tools & Technologies:** Knime, MS Office
+📜 **Business & Finance Analytics**
+✅ Mortgage Data Analysis (Default Rate Modeling)
+✅ Quantitative Trading (Crypto Trading, Whale Activity Analysis)
+✅ Business Intelligence & Decision Analytics
 
 ---
 
@@ -75,12 +100,12 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 **University of Illinois Urbana-Champaign** | Champaign, Illinois
 
-*   Master of Science in Business Analytics | GPA: 3.92/4.00
+*   Master of Science in Analytics | GPA: 3.92/4.00
 *   Relevant Coursework: Predictive Analytics, Causal Inference, Machine Learning, Enterprise Database Management, Data Storytelling
 
 **PEC University of Technology** | Chandigarh, India
 
-*   Bachelor of Technology
+*   Bachelor of Technology in Engineering
 *   Relevant Coursework: Probability & Statistics, Calculus, Linear Algebra, C++, Principles of Management, Entrepreneurship & Project Management
 
 ---
