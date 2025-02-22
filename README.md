@@ -35,57 +35,57 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Projects
 
-**NLP Classification of Disaster-Related Tweets**
+[**NLP Classification of Disaster-Related Tweets**](https://github.com/aamish29/NLP-Classification)
 
 *   Built an NLP model achieving 90%+ accuracy in classifying real vs. non-real disaster tweets using transformers and word embeddings.
 *   Processed 10,000+ tweets, leveraging TF-IDF and LSTMs for optimal text classification.
 
-**Workplace Wellness Causal Effect**
+[**Workplace Wellness Causal Effect**](https://github.com/aamish29/Workplace-Wellness-Causal-Effect)
 
 *   Conducted a causal analysis on workplace wellness programs, analyzing 1,000+ employees using difference-in-differences (DID).
 *   Found a 15% improvement in productivity with no significant impact on employee retention.
 
-**Causal Inference Between Teenage Driving and Mortality**
+[**Causal Inference Between Teenage Driving and Mortality**](https://github.com/aamish29/Causal-Inference-using-R)
 
 *   Applied regression discontinuity design (RDD) on 500,000+ accident records to measure mortality impact of teenage driving laws.
 *   Discovered a 30% increase in fatal crashes within 24 months of obtaining a driver's license.
 
-**Predicting Property Prices Using R**
+[**Predicting Property Prices Using R**](https://github.com/aamish29/Predicting-Property-Prices-using-R)
 
 *   Developed a random forest model predicting house prices with 85% accuracy using 5+ key real estate features.
 *   Processed and cleaned 50,000+ property records, identifying location and square footage as primary price drivers.
 
-**MEME Coin Analysis Using Dune Analytics**
+[**MEME Coin Analysis Using Dune Analytics**](https://github.com/aamish29/Meme-coin-analysis-in-Dune)
 
 *   Analyzed 1M+ transactions of MEME coins like BONK using SQL and blockchain data on Dune Analytics.
 *   Identified high-frequency trading patterns and whale activity, improving trade timing strategies.
 
-**Journey of Apple in Mathematica**
+[**Journey of Apple in Mathematica**](https://github.com/aamish29/Journey-of-Apple-in-Mathematica)
 
 *   Visualized 40+ years of Apple's stock performance using time-series analysis and dynamic plots in Mathematica.
 *   Identified major trend shifts and stock splits using symbolic computation and regression modeling.
 
-**Restaurant Analysis Using GraphQL**
+[**Restaurant Analysis Using GraphQL**](https://github.com/aamish29/Restaurant-analysis-using-GraphQL)
 
 *   Designed a GraphQL API for restaurant data, optimizing query efficiency by 60% compared to REST.
 *   Analyzed 100,000+ customer reviews to extract sentiment trends and operational insights.
 
-**Vaccine Development with Dynamic Programming**
+[**Vaccine Development with Dynamic Programming**](https://github.com/aamish29/Vaccine-Development-with-Dynamic-Programming)
 
 *   Modeled vaccine distribution using Markov Decision Processes, optimizing rollout strategy for 50M+ doses.
 *   Improved distribution efficiency by 25%, ensuring timely delivery to high-risk groups.
 
-**Revenue Growth Forecasting**
+[**Revenue Growth Forecasting**](https://github.com/aamish29/Revenue-Growth-Forecasting)
 
 *   Built a linear regression model predicting revenue growth with 92% accuracy using macroeconomic indicators.
 *   Analyzed 10+ economic factors, identifying GDP growth and inflation rates as top predictors.
 
-**Pricing American Options Using LSMC**
+[**Pricing American Options Using LSMC**](https://github.com/aamish29/Pricing-American-Options-with-LSMC)
 
 *   Implemented Longstaff-Schwartz Monte Carlo (LSMC) method for pricing American options with a 2x speed improvement over traditional binomial models.
 *   Backtested pricing strategy on 10,000+ options contracts, reducing pricing errors by 15%.
 
-**Airbnb Market Analysis** 
+[**Airbnb Market Analysis**](https://github.com/aamish29/Airbnb-Project)
 
 *   Comprehensive analysis of 250,000 Airbnb listings and 5 million reviews across 10 global cities to uncover pricing drivers, market trends, and seasonality.
 *   Developed and validated a linear regression model to determine factors impacting pricing and create a value score for ranking cities based on affordability and satisfaction.
