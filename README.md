@@ -87,7 +87,7 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Contact
 
-[Your Email Address]
-[Link to your LinkedIn Profile]
-[Link to your GitHub Profile]
+[aamishsamotra@gmail.com]
+[https://www.linkedin.com/in/aamish-samotra-997534152/]
+[https://github.com/aamish29?tab=repositories]
 
