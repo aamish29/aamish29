@@ -44,17 +44,17 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Skills
 
-🚀 Programming & Scripting Languages: Python, SQL, R, C++
+🚀 **Programming & Scripting Languages**: Python, SQL, R, C++
 
-📊 Data Science & Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, CNNs, RNNs, Transformers, NLP, SpaCy, NLTK, Hugging Face, Time-Series Forecasting, Predictive Modeling, Data Cleaning, Feature Engineering, Model Evaluation
+📊 **Data Science & Machine Learning**: Supervised Learning, Unsupervised Learning, Deep Learning, CNNs, RNNs, Transformers, NLP, SpaCy, NLTK, Hugging Face, Time-Series Forecasting, Predictive Modeling, Data Cleaning, Feature Engineering, Model Evaluation
 
-📈 Analytics & Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly, Excel, Pivot Tables, VBA, Solver, KNIME
+📈 **Analytics & Visualization**: Tableau, Power BI, Matplotlib, Seaborn, Plotly, Excel, Pivot Tables, VBA, Solver, KNIME
 
-🛠️ Data Engineering & Big Data: Apache Spark, PySpark, Hadoop, HDFS, MapReduce, Airflow, Snowflake
+🛠️ **Data Engineering & Big Data**: Apache Spark, PySpark, Hadoop, HDFS, MapReduce, Airflow, Snowflake
 
-☁️ Cloud & DevOps: AWS, S3, EC2, Lambda, SageMaker, Microsoft Azure, Azure ML, Cognitive Services, Google Cloud, BigQuery, AutoML, Docker, Kubernetes, Git, GitHub
+☁️ **Cloud & DevOps**: AWS, S3, EC2, Lambda, SageMaker, Microsoft Azure, Azure ML, Cognitive Services, Google Cloud, BigQuery, AutoML, Docker, Kubernetes, Git, GitHub
 
-📜 Business & Finance Analytics: Mortgage Data Analysis, Default Rate Modeling, Quantitative Trading, Crypto Trading Analysis, Business Intelligence, Decision Analytics
+📜 **Business & Finance Analytics**: Mortgage Data Analysis, Default Rate Modeling, Quantitative Trading, Crypto Trading Analysis, Business Intelligence, Decision Analytics
 
 
 ---
