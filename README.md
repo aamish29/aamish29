@@ -87,7 +87,9 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Contact
 
-[aamishsamotra@gmail.com]
-[https://www.linkedin.com/in/aamish-samotra-997534152/]
-[https://github.com/aamish29?tab=repositories]
+Email: [aamishsamotra@gmail.com]
+
+LinkedIn: [https://www.linkedin.com/in/aamish-samotra-997534152/]
+
+Projects: [https://github.com/aamish29?tab=repositories]
 
