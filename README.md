@@ -10,7 +10,7 @@ A passionate and driven Machine Learning Engineer with a strong analytical backg
 
 ## Experience
 
-**Machine Learning Engineer (Capstone)** | Bosch | Aug 2024 - Present | Champaign, Illinois
+**Machine Learning Engineer** | Bosch | Aug 2024 - Present | Champaign, Illinois
 
 *   Spearheading the development of an LLM-powered system, leveraging the OpenAI API, to automatically generate structured UML diagrams from natural language, increasing efficiency and reducing manual intervention.
 *   Fine-tuning pre-trained models on Azure, incorporating labeled datasets of text and diagrams to ensure the generated diagrams align with industry-specific contexts.
