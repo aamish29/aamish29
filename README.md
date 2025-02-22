@@ -1,15 +1,13 @@
-## Hi there 👋
-
 # Hi, I'm Aamish Samotra! 👋
 
-https://www.linkedin.com/in/aamish-samotra-997534152/(Your LinkedIn Profile URL)
-https://github.com/aamish29?tab=repositories(Your GitHub Profile URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL](https://www.linkedin.com/in/aamish-samotra-997534152/))
+[![GitHub](https://img.shields.io/badge/GitHub--%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamish29?tab=repositories)
 
 ---
 
 ## About Me
 
-Highly motivated and skilled Machine Learning Engineer with a strong foundation in data analysis and quantitative modeling. Passionate about leveraging AI to solve complex problems and drive innovative solutions. Experience spans from leading AI-driven projects to founding and managing a successful education startup. Currently enhancing expertise as a Graduate Research Assistant and Machine Learning Engineer.
+A passionate and driven Machine Learning Engineer with a strong analytical background and a proven track record of delivering AI-powered solutions. From developing innovative machine learning models to leading an education startup, I thrive on tackling complex challenges and creating meaningful impact through data. Currently enhancing expertise through graduate research and engineering roles.
 
 ---
 
@@ -17,33 +15,33 @@ Highly motivated and skilled Machine Learning Engineer with a strong foundation 
 
 **Machine Learning Engineer (Capstone)** | Bosch | Aug 2024 - Present | Champaign, Illinois
 
-*   Developing an LLM-powered system using OpenAI API to automatically convert natural language descriptions into structured UML diagrams, optimizing speed and accuracy.
-*   Fine-tuning pre-trained models on domain-specific datasets hosted on Azure, enhancing the model's ability to generate contextually accurate diagrams.
-*   Leading a team of four, managing the implementation of AI-driven solutions for UML diagram generation using Azure and OpenAI API.
+*   Spearheading the development of an LLM-powered system, leveraging the OpenAI API, to automatically generate structured UML diagrams from natural language, increasing efficiency and reducing manual intervention.
+*   Fine-tuning pre-trained models on Azure, incorporating labeled datasets of text and diagrams to ensure the generated diagrams align with industry-specific contexts.
+*   Leading a team of four in implementing AI solutions for UML diagram generation using Azure and OpenAI API, ensuring seamless collaboration and on-time project completion.
 
 **Graduate Research Assistant** | Gies College of Business | Oct 2024 - Dec 2024 | Champaign, Illinois
 
-*   Collaborated with Professor Unnati Narang to develop comprehensive teaching cases for the Deloitte Center for Business Analytics, demonstrating the practical impact of business analytics.
-*   Designed immersive scenarios that bridged academic concepts with industry practices, enhancing students' critical thinking and analytical skills.
+*   Collaborated with Professor Unnati Narang to create teaching cases for the Deloitte Center for Business Analytics, demonstrating the real-world applications and impact of business analytics.
+*   Designed engaging scenarios that connected academic concepts with industry practices, fostering critical thinking and analytical skills in students.
 
 **Co-founder and CEO** | EasemyMath | Dec 2022 - Jul 2024 | Gurgaon, India
 
-*   Oversaw the development of services, marketing & branding strategies, leading to the enrollment of 110 students & generating revenue of 15000 USD within 6 months.
-*   Mentored more than 700 students and taught 1100 sessions, significantly improving student performance.
+*   Led the development of services and marketing strategies, resulting in 110 student enrollments and $15,000 USD revenue within 6 months through programs like referral programs and customer advocacy initiatives.
+*   Mentored over 700 students and taught 1100 sessions, helping 53 students excel on the SAT and 320 achieve over 90% in their grades.
 
 **Market Analyst** | Futures First | Jul 2023 - Feb 2024 | Gurgaon, India
 
-*   Developed and maintained 5 sophisticated quantitative models, integrating 20+ macroeconomic indicators and real-time market sentiment data, resulting in a 30% improvement in risk-adjusted returns and a 25% reduction in portfolio volatility.
-*   Leveraged Bloomberg terminals to analyze 1,000+ data points daily on Brazil's derivatives market, leading to a 40% increase in successful trades and an average return on investment of 22% annually.
+*   Developed and maintained five quantitative models integrating over 20 macroeconomic indicators and real-time market sentiment, improving risk-adjusted returns by 30% and reducing portfolio volatility by 25% over 12 months.
+*   Utilized Bloomberg terminals to analyze over 1,000 data points daily on Brazil's derivatives market, identifying high-potential trading opportunities and resulting in a 40% increase in successful trades and a 22% average annual ROI.
 
 ---
 
 ## Projects
 
-**Airbnb Market Analysis** | Nov 2024 - Dec 2024
+**[Airbnb Market Analysis](Your GitHub Project Link for Airbnb)** | Nov 2024 - Dec 2024
 
-*   Conducted a comprehensive analysis of over 250,000 Airbnb listings and 5 million reviews to identify key pricing influencers and market trends.
-*   Built and validated a linear regression model to determine factors significantly impacting pricing and created a value score to rank cities based on affordability and guest satisfaction.
+*   Comprehensive analysis of 250,000 Airbnb listings and 5 million reviews across 10 global cities to uncover pricing drivers, market trends, and seasonality.
+*   Developed and validated a linear regression model to determine factors impacting pricing and create a value score for ranking cities based on affordability and satisfaction.
 
 ---
 
@@ -95,3 +93,4 @@ Highly motivated and skilled Machine Learning Engineer with a strong foundation 
 [Your Email Address]
 [Link to your LinkedIn Profile]
 [Link to your GitHub Profile]
+
