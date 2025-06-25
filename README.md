@@ -138,13 +138,13 @@ A passionate and driven Data Scientist with a strong analytical background and a
 
 **University of Illinois Urbana-Champaign** | Champaign, Illinois
 
-*   Master of Science in Analytics | GPA: 3.92/4.00
+*   Master of Science in Analytics | GPA: 3.85/4.00
 *   Relevant Coursework: Predictive Analytics, Causal Inference, Machine Learning, Enterprise Database Management, Data Storytelling
 
 **PEC University of Technology** | Chandigarh, India
 
-*   Bachelor of Technology in Engineering
-*   Relevant Coursework: Probability & Statistics, Calculus, Linear Algebra, C++, Principles of Management, Entrepreneurship & Project Management
+*   Bachelor of Technology in Engineering and Mathematics
+*   Relevant Coursework: Probability & Statistics, Calculus, Linear Algebra, Calculus, C++, Principles of Management, Entrepreneurship & Project Management
 
 ---
 
