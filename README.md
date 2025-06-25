@@ -41,7 +41,7 @@ A passionate and driven Data Scientist with a strong analytical background and a
 
 ## Projects
 
-[**AWS Real time Marketing Offer Pipeline**]
+**AWS Real time Marketing Offer Pipeline**
 
 *   Built a real-time marketing offer engine using AWS Kinesis, Lambda, Glue, S3, Athena, and DynamoDB, enabling user-triggered personalization
 *   Integrated with Quicksight for marketing teams to access campaign-level KPIs and A/B test results
