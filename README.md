@@ -4,13 +4,19 @@
 
 ## About Me
 
-A passionate and driven Machine Learning Engineer with a strong analytical background and a proven track record of delivering AI-powered solutions. From developing innovative machine learning models to leading an education startup, I thrive on tackling complex challenges and creating meaningful impact through data. Currently enhancing expertise through graduate research and engineering roles.
+A passionate and driven Data Scientist with a strong analytical background and a proven track record of delivering AI-powered solutions. From developing innovative machine learning models to leading an education startup, I thrive on tackling complex challenges and creating meaningful impact through data. Currently enhancing expertise through graduate research and engineering roles.
 
 ---
 
 ## Experience
 
-**Machine Learning Project Lead** | Bosch | Aug 2024 - Present | Champaign, Illinois
+**AI Data Scientist** | App Orchid | Jun 2025 - Present | San Ramon, California
+
+*   Research and prototype agentic AI applications to extend App Orchid PS team capabilities
+*   Develop and test new integrations between Easy Answers and various data sources / agentic frameworks using Python and Langchain
+*   Contribute to POC implementations for customer demos, focusing on BigQuery / SQL data processing and visualization
+
+**Machine Learning Project Lead** | Bosch | Aug 2024 - May 2025 | Champaign, Illinois
 
 *   Led a project focused on generating LLM-driven networking and UML diagrams from natural language descriptions, streamlining documentation workflows by 35%
 *   Designed and deployed predictive analytics dashboards using Python, SQL, and Power BI, improving operational reporting by 40%
